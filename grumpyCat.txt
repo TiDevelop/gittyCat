@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Hello
 Hellon
+=======
+smile
+42
+Hallo
+Djdlhjlala 
+dndkdk
+>>>>>>> 836fa765b6d77209d579285d93ef3a008de7e0d9
